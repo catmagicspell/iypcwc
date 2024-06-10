@@ -1,5 +1,5 @@
 # is your PSP compatible with cIPL? (iypcwc)
-![](https://github.com/catmagicspell/iypcwc/blob/master/screenshot.png?raw=true)</br>
+![](https://raw.githubusercontent.com/catmagicspell/iypcwc/master/app/resource/screenshot.png)</br>
 A simple PSP homebrew that checks whether your PSP is compatible with **Classic cIPL** or not.</br></br>
 **[Download and Installation](https://github.com/catmagicspell/iypcwc/releases/latest)**</br>
 # Credits
